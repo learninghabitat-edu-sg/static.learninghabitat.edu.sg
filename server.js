@@ -1,8 +1,10 @@
 var express = require("express"),
     app = express();
+var ampCors = require('amp-toolbox-cors');
 
 var port = process.env.PORT || 8080;
 
+app.use(ampCors({ verifyOrigin: false }));
 app.use(express.static(__dirname + '/public'));
 
 app.get("/sayHello", function (request, response) {
@@ -12,5 +14,3 @@ app.get("/sayHello", function (request, response) {
 
 app.listen(port);
 console.log("Listening on port ", port);
-
-require("cf-deployment-tracker-client").track();
