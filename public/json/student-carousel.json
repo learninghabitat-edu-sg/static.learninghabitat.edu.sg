@@ -1,5 +1,5 @@
 {
-    "items": [
+    "items": {
         "students": [
             {
                 "imgUrl": "https://static.learninghabitat.edu.sg/img/student-carousel/1.jpg"
@@ -56,5 +56,5 @@
                 "imgUrl": "https://static.learninghabitat.edu.sg/img/student-carousel/18.jpg"
             }
         ]
-    ]
+    }
 }
