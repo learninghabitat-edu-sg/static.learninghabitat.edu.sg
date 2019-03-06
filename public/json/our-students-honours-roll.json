@@ -132,6 +132,63 @@
                     }
                 ]
             }
+        },
+        {
+            "year": 2010,
+            "PSLE": [
+                {
+                    "name": "Jessa Gan",
+                    "points": 266,
+                    "school": "Fernvale Primary School"
+                },
+                {
+                    "name": "Pearlyn Low",
+                    "points": 261,
+                    "school": "Sengkang Primary School"
+                },
+                {
+                    "name": "Benecia Voon",
+                    "points": 254,
+                    "school": "Stamfort Primary School"
+                },
+                {
+                    "name": "Choon Jia Ying",
+                    "points": 246,
+                    "school": "Rivervale Primary School"
+                },
+                {
+                    "name": "Kevin Peh",
+                    "points": 245,
+                    "school": "Sengkang Primary School"
+                },
+                {
+                    "name": "Natasha Cheah",
+                    "points": 245,
+                    "school": "Sengkang Primary School"
+                },
+                {
+                    "name": "Sherrie Tan",
+                    "points": 241,
+                    "school": "Stamfort Primary School"
+                },
+                {
+                    "name": "Joseph Koh",
+                    "points": 241,
+                    "school": "Rivervale Primary School"
+                },
+                {
+                    "name": "Dylan Lim Zhe Kang",
+                    "points": 241,
+                    "school": "Sengkang Primary School"
+                }
+            ],
+            "OLevels": [
+                {
+                    "name": "Eveline Tan Sheau Ling",
+                    "L1R5": 6,
+                    "school": "Cedar Girls' Secondary School"
+                }
+            ]
         }
     ]
 }
